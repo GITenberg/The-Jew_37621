@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38953
     wikipedia: http://en.wikipedia.org/wiki/J%C3%B3zef_Ignacy_Kraszewski
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37621#The-Jew
 gutenberg_issued: '2011-10-04'
 gutenberg_type: Text
 identifiers:
